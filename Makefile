@@ -1,7 +1,7 @@
 XCODE_USER_TEMPLATES_DIR=~/Library/Developer/Xcode/Templates/File\ Templates
 XCODE_USER_SNIPPETS_DIR=~/Library/Developer/Xcode/UserData/CodeSnippets
 
-TEMPLATES_DIR=Custom\ TemplatesClean
+TEMPLATES_DIR=Custom\ Templates
 
 install_templates:
 	mkdir -p $(XCODE_USER_TEMPLATES_DIR)
