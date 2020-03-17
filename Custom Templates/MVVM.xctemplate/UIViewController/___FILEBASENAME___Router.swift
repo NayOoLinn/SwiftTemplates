@@ -6,7 +6,7 @@ import Foundation
 	// func routeToSomewhere()
 }
 
-class FaqRouter: NSObject, FaqRoutingLogic {
+class ___VARIABLE_productName:identifier___Router: NSObject, ___VARIABLE_productName:identifier___RoutingLogic {
     
     weak var viewController: ___VARIABLE_productName:identifier___VC?
     
